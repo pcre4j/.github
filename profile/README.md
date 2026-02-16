@@ -1,4 +1,8 @@
-# PCRE4J: PCRE for Java
+<p align="center">
+  <a href="https://github.com/alexey-pelykh/pcre4j">
+    <img src="social-banner.jpg" alt="PCRE4J: PCRE2 for Java" width="640" />
+  </a>
+</p>
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/alexey-pelykh/pcre4j?style=flat&logo=github)](https://github.com/alexey-pelykh/pcre4j)
 [![License](https://img.shields.io/github/license/alexey-pelykh/pcre4j)](https://www.gnu.org/licenses/lgpl-3.0.txt)
